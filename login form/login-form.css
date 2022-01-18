@@ -1,0 +1,14 @@
+header{
+  height: 100vh;
+  width: 100%;
+  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.9)),url(../pic/blog-inside-post.jpg);
+}
+form{
+  /* background: linear-gradient(to right bottom,rgba(255,255,255,0.4),rgba(255,255,255,0.4)); */
+  background: rgba(255,255,255,0.4);
+  border-radius: 10px;
+  width: 100%;
+  max-width: 450px;
+  margin: auto;
+  padding: 20px;
+}
